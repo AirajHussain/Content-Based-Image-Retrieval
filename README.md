@@ -12,7 +12,7 @@ The CBIR system processes an image database and uses feature projections to gene
 - Processes images from the MNIST dataset for image matching.  
 - Efficient barcode generation with a complexity of **O(n³)**.  
 - Linear search algorithm with a complexity of **O(n)**.  
-- Accuracy rate: **53%**, with suggestions for improvement.  
+- Accuracy rate: **83%**, with suggestions for improvement.  
 
 ## Algorithms  
 ### 1. Barcode Generation  
